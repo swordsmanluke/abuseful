@@ -17,8 +17,8 @@ Knock yourself out, kid. Just don't expect any support.
 Any issues reported will be printed out and bound into a book for me to look at when I need a laugh.
 
 # Ok, but what _exactly_ is in here?
-**Iffy:** An OO implementation of the Maybe monad with a little Ruby-ish syntax tossed on.
-**Peach:** A fluent interface for performing parallelized iteration. That'll make more sense when you look at the example below.
+* **Iffy:** An OO implementation of the Maybe monad with a little Ruby-ish syntax tossed on.
+* **Peach:** A fluent interface for performing parallelized iteration. That'll make more sense when you look at the example below.
 
 ## Iffy
 An implementation of the Maybe pattern that looks Ruby-ish.
